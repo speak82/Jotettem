@@ -1,0 +1,9 @@
+body {
+}
+
+.nav {
+display: inline-block;
+width: 45px;
+height: 45px;
+background: url('images/nav_icons.png') no-repeat;
+}
